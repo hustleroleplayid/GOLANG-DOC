@@ -342,4 +342,4 @@ Nah dari sini semoga cukup jelas ya bedanya kalau dari sisi performa. Inilah pen
 
 ---
 
-<iframe src="https://novalagung.substack.com/embed" width="100%" height="320" class="substack-embed" frameborder="0" scrolling="no"></iframe>
+

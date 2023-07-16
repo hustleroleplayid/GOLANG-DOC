@@ -238,4 +238,4 @@ Kita akan membahas solusi dari beberapa masalah di atas pada chapter terpisah, y
 
 ---
 
-<iframe src="https://novalagung.substack.com/embed" width="100%" height="320" class="substack-embed" frameborder="0" scrolling="no"></iframe>
+

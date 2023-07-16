@@ -128,4 +128,4 @@ duration := time.Duration(n) * time.Second
 
 ---
 
-<iframe src="https://novalagung.substack.com/embed" width="100%" height="320" class="substack-embed" frameborder="0" scrolling="no"></iframe>
+

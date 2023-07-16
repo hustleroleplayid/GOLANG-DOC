@@ -26,4 +26,4 @@ Pada buku ini (terutama semua serial chapter A) kita akan belajar tentang dasar 
 
 ---
 
-<iframe src="https://novalagung.substack.com/embed" width="100%" height="320" class="substack-embed" frameborder="0" scrolling="no"></iframe>
+
