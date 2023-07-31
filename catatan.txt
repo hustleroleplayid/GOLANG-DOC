@@ -3,3 +3,7 @@ int8 dari -128 ke 127
 int16 dari -32768 ke 32767
 int32 dari 
 int64
+
+Playlist youtube golang:
+
+- https://www.youtube.com/watch?v=eZO2DMQepns
