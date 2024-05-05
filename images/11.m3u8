@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORTS2", Sony Ten 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+ 
